@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  stdafx.h
+C:\Users\Karol\documents\visual studio 2017\Projects\ConsoleApplication2\ConsoleApplication2\stdafx.h(6,9): warning : #pragma once in main file [-Wpragma-once-outside-header]
+  #pragma once
+          ^
+  1 warning generated.
+  ConsoleApplication2.cpp
+ConsoleApplication2.cpp(10,11): warning : pack fold expression is a C++1z extension [-Wc++1z-extensions]
+          return ( ... + param );
+                   ^
+  1 warning generated.
+  ConsoleApplication2.vcxproj -> C:\Users\Karol\documents\visual studio 2017\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Karol\documents\visual studio 2017\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Partial PDB)
